@@ -9,7 +9,7 @@ include('user/includes/dbconnection.php');
     <title>Online Notes Sharing Platform | Notes - Code Camp BD </title>
    
     <link rel="manifest" href="site.webmanifest">
-   <!---   Author By: MH RONY
+<!---   Author By: MH RONY
         Author Website: https://dev-mhrony.com
         Github Link: https://github.com/dev-mhrony
         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw

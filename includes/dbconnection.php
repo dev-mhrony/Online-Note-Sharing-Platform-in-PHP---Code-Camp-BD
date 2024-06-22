@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','onssdb');
+define('DB_NAME','ccbd_online_notes');
 // Establish database connection.
 try
 {

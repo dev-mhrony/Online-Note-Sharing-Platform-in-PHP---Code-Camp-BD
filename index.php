@@ -3,7 +3,11 @@
 <head>
     <title>Online Notes Sharing System | Home Page - Code Camp BD</title>
    
-    
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -22,7 +26,11 @@
     <link rel="stylesheet" href="assets/css/style.css">
     
 </head>
-
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 <body>
   <?php include_once('includes/header.php');?>
     <main>
@@ -46,6 +54,11 @@
             </div>
         </section>
         <!-- ? services-area -->
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
         <div class="services-area">
             <div class="container">
                 <div class="row justify-content-sm-center">
@@ -60,6 +73,11 @@
                             </div>
                         </div>
                     </div>
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
                     <div class="col-lg-4 col-md-6 col-sm-8">
                         <div class="single-services mb-30">
                             <div class="features-icon">
@@ -87,7 +105,11 @@
         </div>
        
       
-     
+    <!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+--> 
     </main>
  <?php include_once('includes/footer.php');?>
 
@@ -99,7 +121,11 @@
 <script src="./assets/js/bootstrap.min.js"></script>
 <!-- Jquery Mobile Menu -->
 <script src="./assets/js/jquery.slicknav.min.js"></script>
-
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 <!-- Jquery Slick , Owl-Carousel Plugins -->
 <script src="./assets/js/owl.carousel.min.js"></script>
 <script src="./assets/js/slick.min.js"></script>
@@ -107,7 +133,11 @@
 <script src="./assets/js/wow.min.js"></script>
 <script src="./assets/js/animated.headline.js"></script>
 <script src="./assets/js/jquery.magnific-popup.js"></script>
-
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 <!-- Date Picker -->
 <script src="./assets/js/gijgo.min.js"></script>
 <!-- Nice-select, sticky -->
@@ -121,7 +151,11 @@
 <script src="./assets/js/waypoints.min.js"></script>
 <script src="./assets/js/jquery.countdown.min.js"></script>
 <script src="./assets/js/hover-direction-snake.min.js"></script>
-
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 <!-- contact js -->
 <script src="./assets/js/contact.js"></script>
 <script src="./assets/js/jquery.form.js"></script>
@@ -132,6 +166,10 @@
 <!-- Jquery Plugins, main Jquery -->	
 <script src="./assets/js/plugins.js"></script>
 <script src="./assets/js/main.js"></script>
-
+<!---   Author By: MH RONY
+        Author Website: https://dev-mhrony.com
+        Github Link: https://github.com/dev-mhrony
+        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
 </body>
 </html>
